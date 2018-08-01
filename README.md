@@ -51,3 +51,7 @@
 ## SPEED TEST:
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
+
+## NEWS
+* Vue News: https://news.vuejs.org/
+* Wordpress News: https://wordpress.org/news/
