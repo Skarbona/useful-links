@@ -12,7 +12,8 @@
 * Figures for Images - https://bennettfeely.com/clippy/
 
 ## ICONS:
-*SVG Icons Library: https://webkul.github.io/vivid/
+* SVG Icons Library: https://webkul.github.io/vivid/
+* Font Awesome Icons: https://fontawesome.com/icons?d=gallery
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
