@@ -11,6 +11,9 @@
 * Free Icons - https://www.iconfinder.com
 * Figures for Images - https://bennettfeely.com/clippy/
 
+## ICONS:
+*SVG Icons Library: https://webkul.github.io/vivid/
+
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
 * Code Optimization Tools - https://codebeautify.org
