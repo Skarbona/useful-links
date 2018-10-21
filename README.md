@@ -53,5 +53,11 @@
 * Pingdom Speed Test - https://tools.pingdom.com/
 
 ## NEWS
+* React News: https://reactjs.org/blog/
+* LogRocket: https://blog.logrocket.com/
+* SpeckyBoy: https://speckyboy.com/
+* Alistapart: https://alistapart.com/articles
+* CatsWhoCode: https://www.catswhocode.com/blog/
+* Scotch: https://scotch.io/
 * Vue News: https://news.vuejs.org/
 * Wordpress News: https://wordpress.org/news/
