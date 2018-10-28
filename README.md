@@ -41,7 +41,9 @@
 * Auto Prefixer for CSS - https://autoprefixer.github.io/
 * Sass Converter - https://www.sassmeister.com/ 		  
 * Less Converter & More - http://www.webtoolkitonline.com   
-* Figures for Images - https://bennettfeely.com/clippy/
+* Figures Shapes - https://bennettfeely.com/clippy/
+* Shapes to wrap texts - https://olivierforget.net/css-shape-outside/
+* CSS Loaders - http://tobiasahlin.com/spinkit/
 
 ## IN BROWSER CODING:
 * Client Side Code - https://codepen.io
