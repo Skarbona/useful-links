@@ -65,5 +65,5 @@
 * Wordpress News: https://wordpress.org/news/
 
 ## REACT PACKAGES
-* React Animations: https://github.com/drcmda/react-spring
+* React SPRING Animations: https://github.com/drcmda/react-spring
 
