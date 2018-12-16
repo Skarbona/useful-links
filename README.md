@@ -66,4 +66,5 @@
 
 ## REACT PACKAGES
 * React SPRING Animations: https://github.com/drcmda/react-spring
+* React HTML Parser: https://www.npmjs.com/package/react-html-parser
 
