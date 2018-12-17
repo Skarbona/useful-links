@@ -8,12 +8,14 @@
 * Free- Vectors, mockups - https://www.freepik.com
 * Dummy Image Placeholders - https://source.unsplash.com/
 * Dummy Image Placeholders - https://placeholder.com
-* Free Icons - https://www.iconfinder.com
 * Figures for Images - https://bennettfeely.com/clippy/
+* Image resizer - https://slide.ly/promo/image-resizer/
+
 
 ## ICONS:
 * SVG Icons Library: https://webkul.github.io/vivid/
 * Font Awesome Icons: https://fontawesome.com/icons?d=gallery
+* Free Icons - https://www.iconfinder.com
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
