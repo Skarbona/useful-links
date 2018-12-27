@@ -1,16 +1,18 @@
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com
-* Data Generator - https://mockaroo.com/						
+* Data Generator - https://mockaroo.com/	
+* Dummy Image Placeholders - https://placeholder.com					
 
 ## IMAGE RESOURCES:
-* Remove BG from image - https://www.remove.bg/
 * Free Stock Images - https://www.pexels.com
 * Free Stock Images With Great API - https://unsplash.com/
 * Free- Vectors, mockups - https://www.freepik.com
-* Dummy Image Placeholders - https://source.unsplash.com/
+
+## IMAGE WORKERS:
+* Remove BG from image - https://www.remove.bg/
 * Dummy Image Placeholders - https://placeholder.com
 * Figures for Images - https://bennettfeely.com/clippy/
-* Image resizer - https://slide.ly/promo/image-resizer/
+* Nice modern image placeholder creator - https://trianglify.io/
 
 
 ## ICONS:
@@ -38,6 +40,7 @@
 
 
 ## CSS HELPERS:
+* CSS snippets - https://30-seconds.github.io/30-seconds-of-css/
 * Validate CSS - https://jigsaw.w3.org/css-validator
 * Animations - http://easings.net/pl
 * CSS Check Prefix - http://shouldiprefix.com
@@ -46,7 +49,11 @@
 * Less Converter & More - http://www.webtoolkitonline.com   
 * Figures Shapes - https://bennettfeely.com/clippy/
 * Shapes to wrap texts - https://olivierforget.net/css-shape-outside/
+* Border Radius creator - https://9elements.github.io/fancy-border-radius/
+
+#CSS LOADERS
 * CSS Loaders - http://tobiasahlin.com/spinkit/
+* CSS Epic Loaders - https://epic-spinners.epicmax.co/#/
 
 ## IN BROWSER CODING:
 * Client Side Code - https://codepen.io
