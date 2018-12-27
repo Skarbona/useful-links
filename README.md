@@ -3,6 +3,7 @@
 * Data Generator - https://mockaroo.com/						
 
 ## IMAGE RESOURCES:
+* Remove BG from image - https://www.remove.bg/
 * Free Stock Images - https://www.pexels.com
 * Free Stock Images With Great API - https://unsplash.com/
 * Free- Vectors, mockups - https://www.freepik.com
