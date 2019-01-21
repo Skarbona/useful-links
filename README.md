@@ -37,6 +37,7 @@
 ## JS HELPERS 
 * ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
 * Lazy Images  - https://www.npmjs.com/package/lazysizes
+* JS snippets - https://30secondsofcode.org/
 
 
 ## CSS HELPERS:
