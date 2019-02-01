@@ -75,7 +75,9 @@
 * Vue News: https://news.vuejs.org/
 * Wordpress News: https://wordpress.org/news/
 
-## REACT PACKAGES
+## REACT
 * React SPRING Animations: https://github.com/drcmda/react-spring
 * React HTML Parser: https://www.npmjs.com/package/react-html-parser
+* Deploying React on GitHub : https://scotch.io/@seunzone/deploying-react-applications-to-github-pages
+
 
