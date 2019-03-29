@@ -75,7 +75,8 @@
 * Vue News: https://news.vuejs.org/
 * Wordpress News: https://wordpress.org/news/
 
-## REACT
+## NICE ARTICLES/ LIBRARIES
+* Semantic in HTML 5: https://tutorials.comandeer.pl/html5-blog.html
 * React SPRING Animations: https://github.com/drcmda/react-spring
 * React HTML Parser: https://www.npmjs.com/package/react-html-parser
 * Deploying React on GitHub : https://scotch.io/@seunzone/deploying-react-applications-to-github-pages
