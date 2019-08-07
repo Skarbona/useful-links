@@ -51,6 +51,7 @@
 * Figures Shapes - https://bennettfeely.com/clippy/
 * Shapes to wrap texts - https://olivierforget.net/css-shape-outside/
 * Border Radius creator - https://9elements.github.io/fancy-border-radius/
+* CSS Triggers - https://csstriggers.com/
 
 #CSS LOADERS
 * CSS Loaders - http://tobiasahlin.com/spinkit/
